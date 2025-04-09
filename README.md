@@ -4,7 +4,7 @@ A simple popover component that toggles text content visibility with a button cl
 
 ## Live Demo : 
 
-🔗 [The Popover]([https://the-popover.netlify.app/])
+🔗 [The Popover](https://the-popover.netlify.app/)
 
 We would appreciate it if you decide to use this project. Please include credit when using it. Thank you! 🙏 
 
